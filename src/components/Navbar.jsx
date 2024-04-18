@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <>
           <nav className="container mx-auto  flex flex-col md:flex-row gap-4 items-center py-2 ">
-        <img src="./assets/codeabc_circle.png" alt="code abc" className="w-[80px] h-[80px]" />
+        <img src="" alt="code abc" className="w-[80px] h-[80px]" />
         <div className="w-full flex flex-col md:flex-row gap-4 justify-between items-center ">
             <div className="flex flex-col md:flex-row gap-6 items-center">
                 <p>Home</p>
