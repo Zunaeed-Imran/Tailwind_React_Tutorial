@@ -16,12 +16,12 @@ const Herosec = () => {
             </button>
             <div className="flex gap-2 items-center">
               <span>White paper</span>
-              <img src="./assets/play.png" alt="play" />
+              <img src="src/assets/play.png" alt="play" />
             </div>
           </div>
         </div>
         <div>
-          <img src="./assets/ShahjalalRafi.png" alt="shahjala Rafi" />
+          <img src="src/assets/ShahjalalRafi.png" alt="shahjala Rafi" />
         </div>
       </section>
     </>

@@ -9,7 +9,7 @@ const Footer = () => {
           <div>
             <div className="flex gap-2 items-center pb-6">
               <img
-                src="./assets/codeabc_circle.png"
+                src="src/assets/codeabc_circle.png"
                 alt="code abc"
                 className="w-[20px] h-[20px]"
               />
@@ -59,19 +59,19 @@ const Footer = () => {
             </div>
             <div className="flex flex-col gap-2">
               <div className="flex gap-2 items-center">
-                <img src="./assets/facebook.png" alt="" />
+                <img src="src/assets/facebook.png" alt="" />
                 <p>Facebook</p>
               </div>
               <div className="flex gap-2 items-center">
-                <img src="./assets/dribble.png" alt="" />
+                <img src="src/assets/dribble.png" alt="" />
                 <p>Dribble</p>
               </div>
               <div className="flex gap-2 items-center">
-                <img src="./assets/github.png" alt="" />
+                <img src="src/assets/github.png" alt="" />
                 <p>Github</p>
               </div>
               <div className="flex gap-2 items-center">
-                <img src="./assets/twitter.png" alt="" />
+                <img src="src/assets/twitter.png" alt="" />
                 <p>Twitter</p>
               </div>
             </div>

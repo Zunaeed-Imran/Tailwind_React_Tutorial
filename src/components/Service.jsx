@@ -7,11 +7,11 @@ const Service = () => {
         <div className="text-center ">
           <p className="text-primary font-bold">Service we work for</p>
           <h1 className="pb-8">What care we do for your career</h1>
-          <img src="./assets/down.png" alt="" className="mx-auto" />
+          <img src="src/assets/down.png" alt="" className="mx-auto" />
         </div>
         <div className="container mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-y-8 bg-white p-20">
           <div className="text-center flex flex-col gap-4">
-            <img src="./assets/career1.png" alt="" className="mx-auto" />
+            <img src="src/assets/career1.png" alt="" className="mx-auto" />
             <h1 className="font-bold text-xl">Coding</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             <button className="text-primary font-bold">
@@ -20,7 +20,7 @@ const Service = () => {
             </button>
           </div>
           <div className="text-center flex flex-col gap-4">
-            <img src="./assets/career1.png" alt="" className="mx-auto" />
+            <img src="src/assets/career1.png" alt="" className="mx-auto" />
             <h1 className="font-bold text-xl">Coding</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             <button className="text-primary font-bold">
@@ -29,7 +29,7 @@ const Service = () => {
             </button>
           </div>
           <div className="text-center flex flex-col gap-4">
-            <img src="./assets/career1.png" alt="" className="mx-auto" />
+            <img src="src/assets/career1.png" alt="" className="mx-auto" />
             <h1 className="font-bold text-xl">Coding</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             <button className="text-primary font-bold">
@@ -38,7 +38,7 @@ const Service = () => {
             </button>
           </div>
           <div className="text-center flex flex-col gap-4">
-            <img src="./assets/career1.png" alt="" className="mx-auto" />
+            <img src="src/assets/career1.png" alt="" className="mx-auto" />
             <h1 className="font-bold text-xl">Coding</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             <button className="text-primary font-bold">
@@ -47,7 +47,7 @@ const Service = () => {
             </button>
           </div>
           <div className="text-center flex flex-col gap-4">
-            <img src="./assets/career1.png" alt="" className="mx-auto" />
+            <img src="src/assets/career1.png" alt="" className="mx-auto" />
             <h1 className="font-bold text-xl">Coding</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             <button className="text-primary font-bold">
@@ -56,7 +56,7 @@ const Service = () => {
             </button>
           </div>
           <div className="text-center flex flex-col gap-4">
-            <img src="./assets/career1.png" alt="" className="mx-auto" />
+            <img src="src/assets/career1.png" alt="" className="mx-auto" />
             <h1 className="font-bold text-xl">Coding</h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             <button className="text-primary font-bold">

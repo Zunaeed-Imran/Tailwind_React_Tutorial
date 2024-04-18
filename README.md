@@ -11,7 +11,7 @@
 
 ## Some important thing i learn from this project.
 - i have to remove app.css and index.css to see the actual apply tailwind.
-
+- i also add some color in the tailwind config file.
 
 ### Done task for today.
 - Learning Tailwind css setup in react.

@@ -18,7 +18,7 @@ const Calling = () => {
         </button>
 
         <div className="relative">
-          <img src="./assets/meeting.png" alt="" className="mx-auto" />
+          <img src="src/assets/meeting.png" alt="" className="mx-auto" />
           <div className="md:absolute top-40 left-20 w-full md:w-[280px] bg-[#FABF62] text-white font-bold p-10 rounded-tl-[20px] rounded-tr-[20px] rounded-bl-[20px] text-left">
             <p>Hi, I am Andry. Let me know what can I do for you</p>
           </div>

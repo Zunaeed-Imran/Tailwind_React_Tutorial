@@ -11,7 +11,7 @@ const States = () => {
             We are organizing a program on January 20, 2019 to help the homeless
             people. Our aim is to provide them a specific place to live.
           </p>
-          <img src="./assets/states.png" alt="" />
+          <img src="src/assets/states.png" alt="" />
         </div>
       </section>
     </>
