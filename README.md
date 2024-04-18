@@ -9,6 +9,8 @@
 - again past it to index.css file from the documentation.
 - 
 
+## Some important thing i learn from this project.
+- i have to remove app.css and index.css to see the actual apply tailwind.
 
 
 ### Done task for today.
