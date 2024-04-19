@@ -8,8 +8,8 @@ const Herosec = () => {
           <h1 className="text-5xl font-bold pb-6">
             <span className="text-primary">Tailwind CSS</span> Course Instructor
           </h1>
-          <h2 className="text-7xl font-bold text-secondary pb-6">Shahjalal Rafi</h2>
-          <p className="font-bold">Founder, Code ABC</p>
+          <h2 className="text-7xl font-bold text-secondary pb-6">Zunaeed Imran</h2>
+          <p className="font-bold">Trainee of Itlogiko</p>
           <div className="flex gap-6 items-center pt-8">
             <button className="bg-secondary px-8 py-3 rounded-md text-white font-bold">
               Get Token
@@ -21,7 +21,7 @@ const Herosec = () => {
           </div>
         </div>
         <div>
-          <img src="src/assets/ShahjalalRafi.png" alt="shahjala Rafi" />
+          <img src="src/assets/fssdsaf.jpg" alt="imran" className="rounded-full"/>
         </div>
       </section>
     </>
