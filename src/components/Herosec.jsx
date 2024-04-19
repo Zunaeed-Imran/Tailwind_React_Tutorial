@@ -6,7 +6,7 @@ const Herosec = () => {
       <section className="container mx-auto px-16 py-20 flex flex-col md:flex-row gap-6 justify-between items-center">
         <div>
           <h1 className="text-5xl font-bold pb-6">
-            <span className="text-primary">Tailwind CSS</span> Course Instructor
+            <span className="text-primary">Tailwind CSS</span> Course Learnner
           </h1>
           <h2 className="text-7xl font-bold text-secondary pb-6">Zunaeed Imran</h2>
           <p className="font-bold">Trainee of Itlogiko</p>
